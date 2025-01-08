@@ -1,0 +1,13 @@
+../drivers/Src/stm32f401ccu6_gpio_drivers.c:25:6:GPIO_Peri_ClkCtrl	16	static
+../drivers/Src/stm32f401ccu6_gpio_drivers.c:81:6:GPIO_Init	24	static
+../drivers/Src/stm32f401ccu6_gpio_drivers.c:172:6:GPIO_DInit	16	static
+../drivers/Src/stm32f401ccu6_gpio_drivers.c:207:9:GPIO_ReadIPin	24	static
+../drivers/Src/stm32f401ccu6_gpio_drivers.c:229:10:GPIO_ReadIPort	24	static
+../drivers/Src/stm32f401ccu6_gpio_drivers.c:253:6:GPIO_WriteOPin	16	static
+../drivers/Src/stm32f401ccu6_gpio_drivers.c:281:6:GPIO_WriteOPort	16	static
+../drivers/Src/stm32f401ccu6_gpio_drivers.c:300:6:GPIO_ToggleOPin	16	static
+../drivers/Src/stm32f401ccu6_gpio_drivers.c:319:6:GPIO_ToggleOPort	16	static
+../drivers/Src/stm32f401ccu6_gpio_drivers.c:328:6:delay	32	static,ignoring_inline_asm
+../drivers/Src/stm32f401ccu6_gpio_drivers.c:352:6:GPIO_IRQIntrptConf	16	static
+../drivers/Src/stm32f401ccu6_gpio_drivers.c:388:6:GPIO_IRQPriConf	16	static
+../drivers/Src/stm32f401ccu6_gpio_drivers.c:407:6:GPIO_IRQHndlr	16	static

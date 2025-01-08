@@ -1,0 +1,7 @@
+stm32f401ccu6_spi_drivers.c:36:6:SPI_Peri_ClkCtrl	6
+stm32f401ccu6_spi_drivers.c:70:6:SPI_Init	9
+stm32f401ccu6_spi_drivers.c:111:6:SPI_PinInit	1
+stm32f401ccu6_spi_drivers.c:135:6:SPI_DInit	5
+stm32f401ccu6_spi_drivers.c:165:6:SPI_DataSend	4
+stm32f401ccu6_spi_drivers.c:205:6:SPI_DataReceive	4
+stm32f401ccu6_spi_drivers.c:244:9:SPI_GetFlagStatus	2

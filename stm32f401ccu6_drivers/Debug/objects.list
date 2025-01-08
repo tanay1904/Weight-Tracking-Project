@@ -1,0 +1,7 @@
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Src/weight_master_spi.o"
+"./Startup/startup_stm32f401ccux.o"
+"./drivers/Src/stm32f401ccu6_gpio_drivers.o"
+"./drivers/Src/stm32f401ccu6_spi_drivers.o"
+"./drivers/Src/stm32f401ccu6_uart_drivers.o"

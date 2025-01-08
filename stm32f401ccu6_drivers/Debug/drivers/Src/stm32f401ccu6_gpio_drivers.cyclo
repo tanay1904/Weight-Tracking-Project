@@ -1,0 +1,13 @@
+stm32f401ccu6_gpio_drivers.c:25:6:GPIO_Peri_ClkCtrl	22
+stm32f401ccu6_gpio_drivers.c:81:6:GPIO_Init	19
+stm32f401ccu6_gpio_drivers.c:172:6:GPIO_DInit	11
+stm32f401ccu6_gpio_drivers.c:207:9:GPIO_ReadIPin	1
+stm32f401ccu6_gpio_drivers.c:229:10:GPIO_ReadIPort	1
+stm32f401ccu6_gpio_drivers.c:253:6:GPIO_WriteOPin	2
+stm32f401ccu6_gpio_drivers.c:281:6:GPIO_WriteOPort	1
+stm32f401ccu6_gpio_drivers.c:300:6:GPIO_ToggleOPin	1
+stm32f401ccu6_gpio_drivers.c:319:6:GPIO_ToggleOPort	1
+stm32f401ccu6_gpio_drivers.c:328:6:delay	3
+stm32f401ccu6_gpio_drivers.c:352:6:GPIO_IRQIntrptConf	17
+stm32f401ccu6_gpio_drivers.c:388:6:GPIO_IRQPriConf	1
+stm32f401ccu6_gpio_drivers.c:407:6:GPIO_IRQHndlr	2
