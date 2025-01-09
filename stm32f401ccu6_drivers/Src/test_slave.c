@@ -105,6 +105,7 @@ int main()
 	UART2.UART_Config.UART_WordLen = UART_WRD_LEN_9bit;
 
 	UART_Init(&UART2);
+	UART_SetBaudRate(UART_RegDef_t *DRV_SPI1, uint32_t 9600);
 
 	while(1)
 	{
